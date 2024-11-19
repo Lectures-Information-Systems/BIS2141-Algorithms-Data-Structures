@@ -1,4 +1,5 @@
 lecture05/ArrayExample.class
+lecture08/Recursion.class
 lecture04/LectureFour.class
 lecture04/Person.class
 lecture02/LectureTwo.class
@@ -8,8 +9,10 @@ lecture04/ReturnTypeExample.class
 lecture05/MultiDimensionalArray.class
 lecture04/OverloadingExample.class
 lecture03/Book.class
+lecture07/StackExample.class
 lecture01/LectureOne.class
 lecture05/ArrayOperations.class
+lecture07/CustomQueue.class
 lecture06/LinkedListExample.class
 lecture03/Circle.class
 lecture05/Student.class
