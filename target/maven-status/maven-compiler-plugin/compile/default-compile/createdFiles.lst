@@ -1,4 +1,5 @@
 lecture05/ArrayExample.class
+lecture09/BinarySearchTree.class
 lecture08/Recursion.class
 lecture04/LectureFour.class
 lecture04/Person.class
@@ -8,6 +9,7 @@ lecture04/Student.class
 lecture04/ReturnTypeExample.class
 lecture05/MultiDimensionalArray.class
 lecture04/OverloadingExample.class
+lecture09/Node.class
 lecture03/Book.class
 lecture07/StackExample.class
 lecture01/LectureOne.class
